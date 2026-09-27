@@ -1,0 +1,11 @@
+{
+  "budget": 1,
+  "length_error_code": "E_BAD_LENGTH",
+  "event_error_code": "E_BAD_EVENT",
+  "state": { "frames": [], "buffer": "", "ledger": [], "applied": [] },
+  "events": [
+    { "id": 1, "kind": "feed", "chunk": "0004abcd" },
+    { "id": 2, "kind": "feed", "chunk": "0003xyz" },
+    { "id": 3, "kind": "feed", "chunk": "0002" }
+  ]
+}
